@@ -17,6 +17,16 @@ Welcome to Promtopia! This Next.js project demonstrates Google Cloud Auth, Mongo
 - **AI Prompt Sharing** to collaborate with the Promtopia community.
 - **AI Output Generation** using shared prompts.
 
+## Screenshots
+
+Here are some screenshots of the Promtopia application:
+
+- **Create Post**: ![Create Post](https://github.com/03brainy-clicks/project_promtopia/blob/main/public/screenshots/create-post.png)
+- **Home Page**: ![Home Page](https://github.com/03brainy-clicks/project_promtopia/blob/main/public/screenshots/home.png)
+- **Edit Post**: ![Edit Post](https://github.com/03brainy-clicks/project_promtopia/blob/main/public/screenshots/edit-post.png)
+- **My Profile**: ![Other User's Profile](https://github.com/03brainy-clicks/project_promtopia/blob/main/public/screenshots/myprofile.png)
+- **Other User's Profile**: ![Other User's Profile](https://github.com/03brainy-clicks/project_promtopia/blob/main/public/screenshots/edit-post.png)
+
 ## Installation & Configuration
 
 1. **Clone the Repository**:
@@ -64,4 +74,4 @@ Contributions are welcome! If you'd like to contribute, create pull requests or 
 Feel free to explore the power of Next.js with Promtopia! Create, share, and generate AI prompts and outputs. For questions or feedback, contact [chandrakant](mailto:chandrakantkushwahofficial@gmail.com).
 ```
 
-This markdown file provides a concise and optimized format while retaining all the necessary information. Replace placeholders like `your_google_auth_client_id` and `your_mongodb_uri` with the actual values.
+This markdown file includes the added screenshots and all the previous details. Replace placeholders like `your_google_auth_client_id` and `your_mongodb_uri` with the actual values.
