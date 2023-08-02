@@ -61,7 +61,7 @@ Welcome to Promtopia! This Next.js project demonstrates Google Cloud Auth, Mongo
 
 Contributions are welcome! If you'd like to contribute, create pull requests or issues on [GitHub](https://github.com/03brainy-clicks/project_promtopia). This project is licensed under the [MIT License](LICENSE).
 
-Feel free to explore the power of Next.js with Promtopia! Create, share, and generate AI prompts and outputs. For questions or feedback, contact [email@example.com](mailto:chandrakantkushwahofficial@gmail.com).
+Feel free to explore the power of Next.js with Promtopia! Create, share, and generate AI prompts and outputs. For questions or feedback, contact [chandrakant](mailto:chandrakantkushwahofficial@gmail.com).
 ```
 
 This markdown file provides a concise and optimized format while retaining all the necessary information. Replace placeholders like `your_google_auth_client_id` and `your_mongodb_uri` with the actual values.
