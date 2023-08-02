@@ -1,21 +1,27 @@
-# Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
+<div align="center">
+  <img src="project_logo.png" alt="Project Promtopia Logo" width="200"/>
+</div>
 
-## Introduction
-Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
- 
-In this video, you'll learn:
-- Next.js 13 App Folder Structure
-- Next.js 13 Client Components vs Server Components
-- Next.js 13 File-based Routing (including dynamic and nested routes)
-- Next.js 13 page, layout, loading, and error Special Files
-- Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
-- Next.js 13 Metadata and Search Engine Optimization (SEO)
-- Three ways to fetch data in Next.js:
-   - Server Side Rendering (SSR),
-   - Static Site Generation (SSG)
-   - Incremental Static Generation (ISR)
+# Project Promtopia
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Welcome to Project Promtopia! This Next.js project showcases the utilization of Google Cloud Auth, MongoDB Atlas, SSR, SSG, ISR, Next Routing, and API setup.
+
+## Features
+
+- **Server-Side Rendering (SSR)**: Render pages on the server for optimized performance and SEO.
+- **Static Site Generation (SSG)**: Pre-build pages to improve load times and user experience.
+- **Incremental Static Regeneration (ISR)**: Revalidate and update static content incrementally.
+- **Google Cloud Authentication**: Secure user authentication and authorization.
+- **MongoDB Atlas Integration**: Seamlessly manage and store data.
+- **Next.js Routing**: Efficient navigation between different pages.
+- **Next.js API Setup**: Create custom API routes for server-side logic.
+- **User Sign In/Sign Out**: Enable users to log in and log out securely.
+- **Search Functionality**: Search by username, tags, and content for easy content discovery.
+
+## Getting Started
+
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/03brainy-clicks/project_promtopia.git
+   cd project_promtopia
+
