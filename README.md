@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/03brainy-clicks/project_promtopia/blob/main/public/assets/images/logo.svg" alt="Project Promtopia Logo" width="200"/>
+  <img src="https://github.com/03brainy-clicks/project_promtopia/blob/main/public/assets/images/logo.svg" alt="Promtopia Logo" width="200"/>
 </div>
 
-# Project Promtopia
+# Promtopia - AI Prompt Sharing Platform
 
-Welcome to Project Promtopia! This Next.js project showcases the utilization of Google Cloud Auth, MongoDB Atlas, SSR, SSG, ISR, Next Routing, and API setup.
+Welcome to Promtopia! This Next.js project showcases the utilization of Google Cloud Auth, MongoDB Atlas, SSR, SSG, ISR, Next Routing, and API setup.
 
 ## Features
 
@@ -16,11 +16,14 @@ Welcome to Project Promtopia! This Next.js project showcases the utilization of 
 - **Next.js Routing**: Efficient navigation between different pages.
 - **Next.js API Setup**: Create custom API routes for server-side logic.
 - **User Sign In/Sign Out**: Enable users to log in and log out securely.
-- **Search Functionality**: Search by username, tags, and content for easy content discovery.
+- **AI Prompt Creation**: Craft AI prompts to generate creative outputs.
+- **AI Prompt Sharing**: Share your prompts with the Promtopia community.
+- **AI Output Generation**: Use others' prompts to generate diverse AI outputs.
 
-## Getting Started
+## Installation
 
 1. **Clone the Repository**:
+
    ```sh
    git clone https://github.com/03brainy-clicks/project_promtopia.git
    cd project_promtopia
