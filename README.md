@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="project_logo.png" alt="Project Promtopia Logo" width="200"/>
+  <img src="https://github.com/03brainy-clicks/project_promtopia/blob/main/public/assets/images/logo.svg" alt="Project Promtopia Logo" width="200"/>
 </div>
 
 # Project Promtopia
@@ -24,4 +24,3 @@ Welcome to Project Promtopia! This Next.js project showcases the utilization of 
    ```sh
    git clone https://github.com/03brainy-clicks/project_promtopia.git
    cd project_promtopia
-
